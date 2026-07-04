@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Abhishekverma-07
-- 👀 I’m interested in proggraming
-- 🌱 I’m currently learning dsa
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I’m @Abhishekverma-07
+I’m interested in Web development
+I’m currently learning dsa and ai
+
 
 <!---
 Abhishekverma-07/Abhishekverma-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
